@@ -46,20 +46,20 @@ Please, for more stability use node version 14 ou 16.
 
 If you do not know which version you are using, type this on terminal:
 
-```
-node --version
+```bash
+$ node --version
 ```
 
 If you do want to change your version of Node, type this on terminal:
 
-```
-nvm use 14
+```bash
+$ nvm use 14
 ```
 
 <h3>OR</h3>
 
-```
-nvm use 16
+```bash
+$ nvm use 16
 ```
 
 ### Instructions
