@@ -1,0 +1,3 @@
+node_modules
+wiremock.log
+yarn-error.log
